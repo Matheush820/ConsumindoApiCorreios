@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|c:\\users\\mathe\\documents\\projetos\\sistemadetarefa\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|solutionrelative:controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|c:\\users\\mathe\\documents\\projetos\\sistemadetarefa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|c:\\users\\mathe\\documents\\projetos\\sistemadetarefa\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|solutionrelative:integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|c:\\users\\mathe\\documents\\projetos\\sistemadetarefa\\integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|solutionrelative:integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|c:\\users\\mathe\\documents\\projetos\\sistemadetarefa\\integracao\\response\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|solutionrelative:integracao\\response\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|c:\\users\\mathe\\documents\\projetos\\sistemadetarefa\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E153B3FA-9B1D-4A6B-9CC8-A79BABAFB916}|SistemadeTarefa.csproj|solutionrelative:integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViaCepIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\ViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "Integracao\\ViaCepIntegracao.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\ViaCepIntegracao.cs*",
+              "RelativeToolTip": "Integracao\\ViaCepIntegracao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:21:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IViaCepIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\Interfaces\\IViaCepIntegracao.cs*",
+              "RelativeToolTip": "Integracao\\Interfaces\\IViaCepIntegracao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:19:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:17:53.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IViaCepIntegracaoRefit.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\Response\\Refit\\IViaCepIntegracaoRefit.cs",
+              "RelativeDocumentMoniker": "Integracao\\Response\\Refit\\IViaCepIntegracaoRefit.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\Response\\Refit\\IViaCepIntegracaoRefit.cs*",
+              "RelativeToolTip": "Integracao\\Response\\Refit\\IViaCepIntegracaoRefit.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:14:34.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViaCepResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\Response\\ViaCepResponse.cs",
+              "RelativeDocumentMoniker": "Integracao\\Response\\ViaCepResponse.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Integracao\\Response\\ViaCepResponse.cs*",
+              "RelativeToolTip": "Integracao\\Response\\ViaCepResponse.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:09:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Controllers\\CepController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CepController.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\SistemadeTarefa\\Controllers\\CepController.cs*",
+              "RelativeToolTip": "Controllers\\CepController.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:07:44.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
